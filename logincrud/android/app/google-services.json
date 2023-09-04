@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194077259374",
+    "project_id": "test-flutter-513cf",
+    "storage_bucket": "test-flutter-513cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194077259374:android:23a68a9f1bb97b88e4187f",
+        "android_client_info": {
+          "package_name": "com.liw.logincrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194077259374-m0r4jm0lf1oo39snl2s12hcjcl9mrjml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5yK2ZdVyN2q2gnL1WZWFD_fYVmpR9Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194077259374-7e6p95sqgol8ck348hlp82lbdc844032.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
